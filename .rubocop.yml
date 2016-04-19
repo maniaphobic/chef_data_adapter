@@ -1,0 +1,19 @@
+Lint/ParenthesesAsGroupedExpression:
+  Enabled: false
+
+Metrics/LineLength:
+  Enabled: true
+  Max: 100
+
+Metrics/MethodLength:
+  Enabled: true
+  Max: 15
+
+Style/HashSyntax:
+  Enabled: false
+
+Style/LeadingCommentSpace:
+  Enabled: false
+
+Style/SingleSpaceBeforeFirstArg:
+  Enabled: false

@@ -1,0 +1,20 @@
+# generic
+*~
+*#
+.#*
+\#*#
+.*.sw[a-z]
+*.un~
+
+# berkshelf
+Berksfile.lock
+/cookbooks
+vendor/cookbooks/*
+
+# vagrant
+.vagrant
+
+# Bundler
+Gemfile.lock
+bin/*
+.bundle/*
