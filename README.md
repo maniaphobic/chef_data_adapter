@@ -29,7 +29,7 @@ This cookbook depends on no other cookbooks or packages.
 Attributes
 ----------
 
-_to do_
+_Pending_
 
 #### data_adapter::default
 <table>
